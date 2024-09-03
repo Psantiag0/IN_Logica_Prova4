@@ -1,4 +1,4 @@
-#Programa de cálculo de notas em Python.
+# Programa de cálculo de notas em Python.
 
 Favor inserir a quantidade de alunos
 Favor inserir o nome do aluno
